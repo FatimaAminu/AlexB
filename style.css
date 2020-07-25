@@ -1,0 +1,47 @@
+*{
+    margin-right: 0;
+}
+
+.img-fluid{
+    max-height: 500px;
+    width: 100%;
+}
+
+.figure{
+    background-color: #F8F9FA;
+    padding:0px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding: 10px;
+}
+
+.containerServ{
+    /* max-width: 50%; */
+    text-align: center;
+    padding: 0 12%;
+}
+
+.card-group img{
+    max-height: 200px;
+}
+
+.col-md-6 img{
+    height: 350px;
+    padding: 20px 0px 20px 20px;
+}
+
+.something{
+    padding-top: 5.2rem;
+}
+
+.footer{
+    background-color: #D3D3D3;
+    /* padding: 10px 0px 0px 0px; */
+}
+
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
